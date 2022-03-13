@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @komireddychandureddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi I'm Chandu Reddy Komireddy 👋 
 
-<!---
-komireddychandureddy/komireddychandureddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=komireddychandureddy&color=brightgreen)
+
+### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
+ - :mortar_board: Bachelor of Technology
+ - 💻 Software Tester
+ - :book: A Learner 
+ - ✍️ Blogger
+  
+### ![N|Solid](https://img.icons8.com/metro/2x/reading.png) What I Learn
+ - :hotsprings: Java, JavaScripts
+ - :white_check_mark: Selenium Webdriver
+ - :rocket: Postman, Newman
+ - :m: Maven, Node.js
+ - :cloud: GitHub, Gitlab, Jenkins
+ - :books: Cucumber, TestNG, WinAppDriver, Rest-Assured
+ - :bar_chart: Cucumber MVN Report, Extent Report, Allure Report
+ 
+[![komireddychandureddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=komireddychandureddy&show_icons=true&&theme=radical)](https://github.com/komireddychandureddy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komireddychandureddy&layout=compact)](https://github.com/komireddychandureddy/github-readme-stats)
+
+[![N|Solid](https://img.icons8.com/fluent/72/linkedin.png)](https://www.linkedin.com/in/komireddychandureddy)
