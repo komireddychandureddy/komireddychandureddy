@@ -6,7 +6,6 @@
  - :mortar_board: Bachelor of Technology
  - 💻 Software Tester
  - :book: A Learner 
- - ✍️ Blogger
   
 ### ![N|Solid](https://img.icons8.com/metro/2x/reading.png) What I Learn
  - :hotsprings: Java, JavaScripts
